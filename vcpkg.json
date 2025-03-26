@@ -1,0 +1,7 @@
+{
+    "dependencies": [
+        "eigen3", "tbb", "nlohmann-json", "spdlog", "qt5-base",
+        "entt", "stb", "assimp", "glm", "imgui", "tinyobjloader",
+        "glad", "glfw3", "vulkan", "vsg", "vsgxchange", "vsgimgui"
+    ]
+}
